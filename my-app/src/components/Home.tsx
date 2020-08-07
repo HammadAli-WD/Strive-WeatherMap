@@ -51,11 +51,7 @@ function Home (props: IAppStates){
         }
     };
 
-    /* useEffect( () => {       
-       
-        getWeather()
-       
-    }, [])  */
+  
         return (
             <div>
                 <Titles />
